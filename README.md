@@ -1,6 +1,10 @@
 # UAS-BDL_dheva
 repository ini untuk mengumpulkan tugas akhir mata kuliah basis data lanjutan
 
+# Entity Relationship Diagram
+![Screenshot 2024-06-27 035355](https://github.com/dodotni/UAS-BDL_dheva/assets/173961347/bf423425-11bd-418f-bded-a3c4c3ce37ba)
+
+
 ## Penjelasan Trigger
 Trigger dalam kode SQL ini diatur untuk memperbarui informasi tertentu di tabel karyawan setiap kali terjadi perubahan pada data karyawan yang ditentukan. Fungsi utama dari trigger ini adalah memastikan konsistensi dan integritas data di dalam database dengan melakukan operasi otomatis saat data dimodifikasi.
 
